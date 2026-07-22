@@ -1,0 +1,7 @@
+1. command to know disk size available in linux
+
+    df -h /
+    disk free human readable.
+
+
+2.
